@@ -1,0 +1,5 @@
+ultralytics
+matplotlib
+torch
+torchvision
+onnxruntime
